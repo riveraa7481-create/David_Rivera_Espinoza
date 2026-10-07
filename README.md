@@ -36,6 +36,12 @@ Me interesa transformar datos en información útil para apoyar la toma de decis
 
 ---
 
+## Formación
+
+**Educación**
+
+- Bachiller en Ingeniería Empresarial de Sistemas
+  
 ## Habilidades
 
 | Área | Herramientas | Estado |
@@ -107,12 +113,6 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 </table>
 
 ---
-
-## Formación
-
-**Educación**
-
-- Bachiller en Ingeniería Empresarial de Sistemas
 
 **Certificaciones y cursos**
 
