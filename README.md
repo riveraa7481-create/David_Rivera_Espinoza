@@ -132,5 +132,5 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 ## Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:riveraa7481@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
