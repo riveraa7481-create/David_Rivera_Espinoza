@@ -8,7 +8,7 @@
 <!-- ================= PRESENTACIÓN ================= -->
 
 <h2 align="center">
-  👋 Hola, soy Soledad
+  👋 Hola, soy David Rivera Espinoza
 </h2>
 
 <p align="center">
