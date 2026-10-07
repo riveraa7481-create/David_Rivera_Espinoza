@@ -111,8 +111,8 @@ Proyecto de exploración, limpieza y análisis de datos utilizando Python.
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/">
