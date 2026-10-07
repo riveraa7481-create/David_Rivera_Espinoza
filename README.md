@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner_David_Rivera.png" width="100%" alt="Banner">
+  <img src="./Banner_David Rivera.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">David Rivera Espinoza</h1>
@@ -51,23 +51,53 @@ Analista de datos con formación en Ingeniería Empresarial de Sistemas. Transfo
 
 ## Proyectos
 
-### Dashboard de Ventas
-Dashboard interactivo para monitorear KPIs, productos, clientes y la evolución de las ventas.
-
-**Herramientas:** Power BI · DAX · Excel  
-**Enlace:** [Ver proyecto](#)
-
-### Análisis de Ventas con SQL
-Consultas para analizar información de ventas, clientes, productos y vendedores.
-
-**Herramientas:** SQL Server  
-**Enlace:** [Ver proyecto](#)
-
-### Análisis de Datos con Python
-Exploración, limpieza y análisis de datos para obtener conclusiones accionables.
-
-**Herramientas:** Python · Pandas  
-**Enlace:** [Ver proyecto](#)
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"><br><br>
+      <h3>Dashboard de Ventas</h3>
+      <p>Dashboard interactivo para monitorear el desempeño comercial del negocio.</p>
+      <p align="left">
+        • KPIs de ventas<br>
+        • Análisis por producto y cliente<br>
+        • Evolución temporal
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+      </p>
+      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"><br><br>
+      <h3>Análisis de Ventas con SQL</h3>
+      <p>Consultas para extraer información clave a partir de bases de datos relacionales.</p>
+      <p align="left">
+        • Ventas y clientes<br>
+        • Productos y vendedores<br>
+        • Consultas analíticas
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL">
+      </p>
+      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br><br>
+      <h3>Análisis de Datos con Python</h3>
+      <p>Proceso completo de exploración, limpieza y análisis de un conjunto de datos.</p>
+      <p align="left">
+        • Exploración de datos<br>
+        • Limpieza y transformación<br>
+        • Hallazgos y conclusiones
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      </p>
+      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
