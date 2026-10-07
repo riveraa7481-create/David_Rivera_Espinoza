@@ -138,3 +138,5 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
 </p>
+
+<p align="center"> <strong>Construyendo mi camino en Data Analytics, un proyecto a la vez.</strong> </p>
