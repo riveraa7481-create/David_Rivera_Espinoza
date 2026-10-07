@@ -128,14 +128,6 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 ---
 
-## Próximos pasos
-
-- Profundizar en SQL avanzado y modelado de datos
-- Crear más dashboards con datos de distintos sectores
-- Avanzar en Python para análisis y visualización
-- Aplicar lo aprendido en un entorno profesional real
-
----
 
 ## Contacto
 
