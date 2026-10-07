@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="./banner, de Linkedln.jfif" width="100%">
+  <img src="./Banner_David Rivera.png" width="100%">
 </p>
 
 
