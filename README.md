@@ -20,7 +20,6 @@
 
 <p align="center">
   <a href="#sobre-mí">Sobre mí</a> ·
-  <a href="#lo-que-busco">Lo que busco</a> ·
   <a href="#habilidades">Habilidades</a> ·
   <a href="#proyectos">Proyectos</a> ·
   <a href="#formación">Formación</a> ·
