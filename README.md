@@ -30,9 +30,9 @@
 
 ## Sobre mí
 
-Soy bachiller en Ingeniería Empresarial de Sistemas y estoy dando mis primeros pasos en el mundo de los datos. Me motiva convertir datos en información que ayude a tomar mejores decisiones.
+Soy Bachiller en Ingeniería Empresarial de Sistemas, orientado al análisis de datos y Business Intelligence.
 
-Estoy aprendiendo SQL, Power BI, Excel y Python, y aplico lo que aprendo en proyectos prácticos que comparto en este portafolio. Busco mi primera oportunidad de prácticas para seguir creciendo junto a un equipo y aportar con compromiso y ganas de aprender.
+Me interesa transformar datos en información útil para apoyar la toma de decisiones mediante herramientas de análisis, visualización y gestión de información.
 
 ---
 
