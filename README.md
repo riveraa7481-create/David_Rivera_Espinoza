@@ -131,9 +131,14 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 ## Contacto
 
-¿Tienes una oportunidad de prácticas en análisis de datos o BI? Me encantaría conversar.
+<p align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/">LinkedIn</a> ·
-  <a href="mailto:TU_CORREO@gmail.com">TU_CORREO@gmail.com</a>
+<a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
