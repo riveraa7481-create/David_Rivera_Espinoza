@@ -53,7 +53,7 @@ Me interesa transformar datos en información útil para apoyar la toma de decis
 | **Automatización** | <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate"> | Aprendiendo |
 | **Gestión** | <img src="https://img.shields.io/badge/Scrum-1F8ACB?style=flat-square" alt="Scrum"> <img src="https://img.shields.io/badge/MS%20Project-31752F?style=flat-square&logo=microsoftproject&logoColor=white" alt="MS Project"> | Conocimientos base |
 
-**Habilidades blandas:** aprendizaje continuo · trabajo en equipo · comunicación · responsabilidad · orden y atención al detalle
+**Habilidades blandas:** Pensamiento analítico · aprendizaje continuo · trabajo en equipo · comunicación efectiva · organización · atención al detalle · orientación a resultados
 
 ---
 
