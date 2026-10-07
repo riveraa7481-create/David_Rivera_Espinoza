@@ -59,62 +59,10 @@ Me interesa transformar datos en información útil para apoyar la toma de decis
 
 ## Proyectos
 
-Proyectos
-
 Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 <table> <tr> <td width="33%" valign="top" align="center"> <img src="./assets/powerbi.svg" width="100%" alt="Power BI"> <h3>Dashboard de Ventas</h3> <p>Dashboard interactivo para visualizar<br>el desempeño de las ventas.</p> <p><sub><strong>LO QUE APRENDÍ</strong></sub><br> Diseño de dashboards<br> Medidas con DAX<br> Presentación de KPIs</p> <p> <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX"> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> </p> <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p> </td> <td width="33%" valign="top" align="center"> <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server"> <h3>Análisis de Ventas con SQL</h3> <p>Consultas para analizar ventas,<br>clientes, productos y vendedores.</p> <p><sub><strong>LO QUE APRENDÍ</strong></sub><br> Consultas SELECT y filtros<br> JOIN entre tablas<br> Agrupaciones y funciones</p> <p> <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL"> </p> <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-E5484D?style=for-the-badge" alt="Ver proyecto"></a></p> </td> <td width="33%" valign="top" align="center"> <img src="./assets/python.svg" width="100%" alt="Python"> <h3>Análisis de Datos con Python</h3> <p>Exploración y limpieza de datos<br>para obtener conclusiones.</p> <p><sub><strong>LO QUE APRENDÍ</strong></sub><br> Limpieza de datos<br> Manejo de DataFrames<br> Análisis exploratorio</p> <p> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> </p> <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-4B8BBE?style=for-the-badge" alt="Ver proyecto"></a></p> </td> </tr> </table>Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"><br><br>
-      <h3>Dashboard de Ventas</h3>
-      <p>Dashboard interactivo para visualizar el desempeño de las ventas.</p>
-      <p align="left">
-        <strong>Aprendí:</strong><br>
-        • Diseño de dashboards<br>
-        • Medidas con DAX<br>
-        • Presentación de KPIs
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"><br><br>
-      <h3>Análisis de Ventas con SQL</h3>
-      <p>Consultas para analizar ventas, clientes, productos y vendedores.</p>
-      <p align="left">
-        <strong>Aprendí:</strong><br>
-        • Consultas SELECT y filtros<br>
-        • JOIN entre tablas<br>
-        • Agrupaciones y funciones
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br><br>
-      <h3>Análisis de Datos con Python</h3>
-      <p>Exploración y limpieza de datos para obtener conclusiones.</p>
-      <p align="left">
-        <strong>Aprendí:</strong><br>
-        • Limpieza de datos<br>
-        • Manejo de DataFrames<br>
-        • Análisis exploratorio
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-      </p>
-      <a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=for-the-badge" alt="Ver proyecto"></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
