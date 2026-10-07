@@ -37,32 +37,6 @@ Estoy aprendiendo SQL, Power BI, Excel y Python, y aplico lo que aprendo en proy
 
 ---
 
-## Lo que busco
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Oportunidad</h3>
-      <ul>
-        <li>Prácticas profesionales en Análisis de Datos o Business Intelligence</li>
-        <li>Equipos donde pueda aprender de profesionales con experiencia</li>
-        <li>Proyectos reales con datos de negocio</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Lo que puedo aportar</h3>
-      <ul>
-        <li>Disposición para aprender rápido</li>
-        <li>Bases en SQL, Power BI y Excel</li>
-        <li>Pensamiento analítico y orden en el trabajo</li>
-        <li>Conocimiento de metodologías ágiles (Scrum)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Habilidades
 
 | Área | Herramientas | Estado |
