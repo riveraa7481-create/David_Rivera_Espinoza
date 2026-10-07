@@ -100,7 +100,7 @@ Proyecto de exploración, limpieza y análisis de datos utilizando Python.
 - 📌 Power BI
 - 📌 SQL Server Fundamentals
 - 📌 MS Project
-- 📌 BPM con Bizagi
+- 📌 Python 
 - 📌 Excel
 - 📌 Power Automate
 
