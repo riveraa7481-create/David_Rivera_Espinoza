@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="https://TU-IMAGEN-DEL-BANNER.png" width="100%">
+  <img src="./banner, de Linkedln.jfif" width="100%">
 </p>
 
 
