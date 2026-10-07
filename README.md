@@ -131,8 +131,10 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 ## Contacto
 
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a><a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
