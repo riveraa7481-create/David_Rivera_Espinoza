@@ -139,4 +139,3 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 </p>
 
-<p align="center"> <strong>Construyendo mi camino en Data Analytics, un proyecto a la vez.</strong> </p>
