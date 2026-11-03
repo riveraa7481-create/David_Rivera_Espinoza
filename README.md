@@ -9,9 +9,6 @@
   Bachiller en Ingeniería Empresarial de Sistemas
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Buscando-Pr%C3%A1cticas%20Profesionales-2EA44F?style=for-the-badge" alt="Buscando prácticas profesionales">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
