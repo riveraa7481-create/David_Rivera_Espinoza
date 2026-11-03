@@ -5,7 +5,7 @@
 <h1 align="center">David Rivera Espinoza</h1>
 
 <p align="center">
-  <strong>Aspirante a Analista de Datos · Business Intelligence</strong><br>
+  <strong>Orientado al mundo de los Datos · SQL · Python · Business Intelligence</strong><br>
   Bachiller en Ingeniería Empresarial de Sistemas
 </p>
 
@@ -27,13 +27,11 @@
 </p>
 
 ---
-
 ## Sobre mí
 
-Soy bachiller en Ingeniería Empresarial de Sistemas, orientado al análisis de datos y Business Intelligence.
+Soy bachiller en Ingeniería Empresarial de Sistemas, interesado en el mundo de los datos y en el desarrollo de soluciones basadas en tecnología.
 
-Me interesa transformar datos en información útil para apoyar la toma de decisiones mediante herramientas de análisis, visualización y gestión de información.
-
+Me interesa trabajar con bases de datos, SQL, Python y herramientas de procesamiento y análisis de datos, aplicando conocimientos de transformación, gestión y visualización de información para convertir datos en soluciones de valor.
 ---
 
 ## Habilidades
