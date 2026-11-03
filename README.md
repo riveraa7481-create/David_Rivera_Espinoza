@@ -14,12 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:riveraa7481@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:riveraa7481@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -73,13 +69,8 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
         <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
       </p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto">
-        </a>
-      </p>
+      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
     </td>
-
     <td width="33%" valign="top" align="center">
       <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server">
       <h3>Análisis de Ventas con SQL</h3>
@@ -91,13 +82,8 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
       <p>
         <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL">
       </p>
-      <p>
-        <a href="https://github.com/riveraa7481-create/ProyectoFinal_SQL-Caso_Estudio_DataAndino-DRE" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20proyecto-E5484D?style=for-the-badge" alt="Ver proyecto">
-        </a>
-      </p>
+      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-E5484D?style=for-the-badge" alt="Ver proyecto"></a></p>
     </td>
-
     <td width="33%" valign="top" align="center">
       <img src="./assets/python.svg" width="100%" alt="Python">
       <h3>Análisis de Datos con Python</h3>
@@ -109,11 +95,7 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
       <p>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
       </p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Ver%20proyecto-4B8BBE?style=for-the-badge" alt="Ver proyecto">
-        </a>
-      </p>
+      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-4B8BBE?style=for-the-badge" alt="Ver proyecto"></a></p>
     </td>
   </tr>
 </table>
@@ -143,10 +125,6 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 ## Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:riveraa7481@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/david-adolfo-rivera-espinoza-406225285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:riveraa7481@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>\
