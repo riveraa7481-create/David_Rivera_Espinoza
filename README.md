@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner_David%20Rivera.png" width="100%" alt="Banner">
+  <img src="./assets/Banner_David.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">David Rivera Espinoza</h1>
