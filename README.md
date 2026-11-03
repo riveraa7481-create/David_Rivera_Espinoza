@@ -31,8 +31,7 @@
 
 Soy bachiller en Ingeniería Empresarial de Sistemas, interesado en el mundo de los datos y en el desarrollo de soluciones basadas en tecnología.
 
-Me interesa trabajar con bases de datos, SQL, Python y herramientas de procesamiento y análisis de datos, aplicando conocimientos de transformación, gestión y visualización de información para convertir datos en soluciones de valor.
----
+Me interesa trabajar con bases de datos, SQL y Python, así como explorar herramientas de procesamiento, transformación y análisis de datos. Busco fortalecer mis conocimientos técnicos para gestionar información, optimizar procesos y desarrollar soluciones basadas en datos.
 
 ## Habilidades
 
