@@ -71,19 +71,31 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
       </p>
       <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server">
-      <h3>Análisis de Ventas con SQL</h3>
-      <p>Consultas para analizar ventas,<br>clientes, productos y vendedores.</p>
-      <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
-      Consultas SELECT y filtros<br>
-      JOIN entre tablas<br>
-      Agrupaciones y funciones</p>
-      <p>
-        <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL">
-      </p>
-      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-E5484D?style=for-the-badge" alt="Ver proyecto"></a></p>
-    </td>
+   <td width="33%" valign="top" align="center">
+  <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server">
+  <h3>Análisis de Datos con SQL</h3>
+  <p>Consultas y transformación de datos<br>
+  mediante SQL en Databricks.</p>
+     
+  <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
+    Consultas SELECT y filtros<br>
+    JOIN y relaciones entre tablas<br>
+    CTE y subconsultas<br>
+    Funciones agregadas y de ventana<br>
+    Limpieza y transformación de datos<br>
+    Uso de SQL en Databricks
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/T--SQL-1F2937?style=flat-square" alt="T-SQL">
+  </p>
+
+  <p>
+    <a href="https://github.com/riveraa7481-create/ProyectoFinal_SQL-Caso_Estudio_DataAndino-DRE.git" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20proyecto-E5484D?style=for-the-badge" alt="Ver proyecto">
+    </a>
+  </p>
+</td>
     <td width="33%" valign="top" align="center">
       <img src="./assets/python.svg" width="100%" alt="Python">
       <h3>Análisis de Datos con Python</h3>
