@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:riveraa7481@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-riveraa7481%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-riveraa7481%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
   </a>
 </p>
 
