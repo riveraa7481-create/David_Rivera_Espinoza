@@ -69,6 +69,22 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
       </p>
       <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
     </td>
+
+  <td width="33%" valign="top" align="center">
+      <img src="./assets/powerbi.svg" width="100%" alt="Power BI">
+      <h3>Dashboard de Ventas</h3>
+      <p>Dashboard interactivo para visualizar<br>el desempeño de las ventas.</p>
+      <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
+      Diseño de dashboards<br>
+      Medidas con DAX<br>
+      Presentación de KPIs</p>
+      <p>
+        <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+      </p>
+      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
+    </td>
+    
    <td width="33%" valign="top" align="center">
   <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server">
   <h3>Análisis de Datos con SQL</h3>
