@@ -36,14 +36,14 @@ Me interesa trabajar con bases de datos, SQL y Python, así como explorar herram
 
 ## Habilidades
 
-| Área | Herramientas | Estado |
+| Área | Herramientas |
 |:--|:--|:--|
-| **Bases de datos** | <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> | Fortaleciendo |
-| **Visualización** | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX"> | Practicando |
-| **Análisis de datos** | <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> | Practicando |
-| **Programación** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> | Aprendiendo |
-| **Automatización** | <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate"> | Aprendiendo |
-| **Gestión** | <img src="https://img.shields.io/badge/Scrum-1F8ACB?style=flat-square" alt="Scrum"> <img src="https://img.shields.io/badge/MS%20Project-31752F?style=flat-square&logo=microsoftproject&logoColor=white" alt="MS Project"> | Conocimientos base |
+| **Bases de datos** | <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> 
+| **Visualización** | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX"> 
+| **Análisis de datos** | <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> 
+| **Programación** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> 
+| **Automatización** | <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate"> 
+| **Gestión** | <img src="https://img.shields.io/badge/Scrum-1F8ACB?style=flat-square" alt="Scrum"> <img src="https://img.shields.io/badge/MS%20Project-31752F?style=flat-square&logo=microsoftproject&logoColor=white" alt="MS Project"> 
 
 **Habilidades blandas:** Pensamiento analítico · Aprendizaje continuo · Trabajo en equipo · Comunicación efectiva · Organización · Orientación a resultados
 
