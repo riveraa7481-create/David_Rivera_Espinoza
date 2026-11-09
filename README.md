@@ -53,21 +53,28 @@ Proyectos
 Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
 
 <table>
+  
   <tr>
-    <td width="25%" valign="top" align="center">
-      <img src="./assets/powerbi.svg" width="100%" alt="Power BI">
-      <h3>Dashboard de Ventas</h3>
-      <p>Dashboard interactivo para visualizar<br>el desempeño de las ventas.</p>
-      <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
-      Diseño de dashboards<br>
-      Medidas con DAX<br>
-      Presentación de KPIs</p>
-      <p>
-        <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-      </p>
-      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
-    </td>
+   <td width="25%" valign="top" align="center">
+  <img src="./assets/Excel.png" width="100%" alt="Excel">
+  <h3>Dashboard de Denuncias Policiales</h3>
+  <p>Dashboard interactivo para visualizar<br>las denuncias policiales en el Perú.</p>
+  <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
+  Limpieza y transformación de datos<br>
+  Power Query<br>
+  Relaciones con Power Pivot<br>
+  Tablas dinámicas y segmentadores<br>
+  Diseño de dashboards</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+    <img src="https://img.shields.io/badge/Power%20Query-1F2937?style=flat-square" alt="Power Query">
+  </p>
+  <p>
+    <a href="URL_DE_TU_REPOSITORIO_EXCEL" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20proyecto-217346?style=for-the-badge" alt="Ver proyecto">
+    </a>
+  </p>
+</td>
 
 <td width="25%" valign="top" align="center">
   <img src="./assets/sqlserver.svg" width="100%" alt="SQL Server">
@@ -106,30 +113,22 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
   <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-4B8BBE?style=for-the-badge" alt="Ver proyecto"></a></p>
 </td>
 
-<td width="25%" valign="top" align="center">
-  <img src="./assets/excel.png" width="100%" alt="Excel">
-  <h3>Dashboard de Denuncias Policiales</h3>
-  <p>Dashboard interactivo para visualizar<br>las denuncias policiales en el Perú.</p>
-  <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
-  Limpieza y transformación de datos<br>
-  Power Query<br>
-  Relaciones con Power Pivot<br>
-  Tablas dinámicas y segmentadores<br>
-  Diseño de dashboards</p>
-  <p>
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-    <img src="https://img.shields.io/badge/Power%20Query-1F2937?style=flat-square" alt="Power Query">
-  </p>
-  <p>
-    <a href="URL_DE_TU_REPOSITORIO_EXCEL" target="_blank">
-      <img src="https://img.shields.io/badge/Ver%20proyecto-217346?style=for-the-badge" alt="Ver proyecto">
-    </a>
-  </p>
-</td>
-
+ <td width="25%" valign="top" align="center">
+      <img src="./assets/powerbi.svg" width="100%" alt="Power BI">
+      <h3>Dashboard de Ventas</h3>
+      <p>Dashboard interactivo para visualizar<br>el desempeño de las ventas.</p>
+      <p><sub><strong>LO QUE APRENDÍ</strong></sub><br>
+      Diseño de dashboards<br>
+      Medidas con DAX<br>
+      Presentación de KPIs</p>
+      <p>
+        <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+      </p>
+      <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-B8940A?style=for-the-badge" alt="Ver proyecto"></a></p>
+    </td>
   </tr>
 </table>
-
 
 ---
 
