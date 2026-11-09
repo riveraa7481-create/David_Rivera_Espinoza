@@ -36,7 +36,7 @@ Me interesa trabajar con bases de datos, SQL y Python, así como explorar herram
 
 ## Habilidades
 
-| Área | Herramientas |
+| Área | Herramientas |Estado|
 |:--|:--|:--|
 | **Bases de datos** | <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> 
 | **Visualización** | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-1F2937?style=flat-square" alt="DAX"> 
