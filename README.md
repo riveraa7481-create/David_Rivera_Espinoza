@@ -50,7 +50,7 @@ Me interesa trabajar con bases de datos, SQL y Python, así como explorar herram
 ---
 Proyectos
 
-Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
+Proyectos prácticos orientados al manejo, transformación y visualización de datos.
 
 <table>
   
@@ -108,7 +108,7 @@ Proyectos prácticos con los que aplico y refuerzo lo que voy aprendiendo.
   Manejo de DataFrames<br>
   Análisis exploratorio</p>
   <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://acortar.link/WIOIv5" alt="Pandas">
   </p>
   <p><a href="#"><img src="https://img.shields.io/badge/Ver%20proyecto-4B8BBE?style=for-the-badge" alt="Ver proyecto"></a></p>
 </td>
