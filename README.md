@@ -57,7 +57,7 @@ Proyectos prácticos orientados al manejo, procesamiento, transformación y visu
   <tr>
     <!-- EXCEL -->
     <td width="25%" valign="top" align="center">
-      <img src="./assets/excel.png" width="100%" alt="Excel">
+      <img src="./assets/Excel.png" width="100%" alt="Excel">
       <h3>Gestión y Transformación de Datos con Excel</h3>
       <p>Procesamiento y visualización de datos de denuncias policiales en el Perú.</p>
       <p><sub><strong>COMPETENCIAS APLICADAS</strong></sub><br>
